@@ -1,0 +1,9 @@
+{
+    "List item": {
+        "prefix": "li",
+        "body": [
+            "<li><a href=\"{1:link}\">${2:link}</a></li>"
+        ],
+        "description": "description"
+    }
+}
